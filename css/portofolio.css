@@ -1,0 +1,26 @@
+#profile-img {
+    border: solid #ffffff 5px;
+    box-shadow: 0 0 0 5px #fcfaf9;
+    width: 200px;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+h5 {
+    color: #01579b;
+}
+
+.contact-list, .collection {
+    border: none !important;
+} 
+
+.contact-list li {
+    border: none !important;
+    padding: 5px 0 !important;
+}
+
+.code-img {
+    width: 150px;
+}
