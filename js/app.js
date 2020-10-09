@@ -5,7 +5,7 @@ const educations = [
         name: "Universitas Negeri Yogyakarta",
         majors: "Pendidikan Teknik Informatika - S1",
         period: "2015 - 2019",
-        img: basePath+"/images/uny.jpg"
+        img: "https://anficena.github.io/cv/images/uny.jpg"
     },
     {
         name: "SMK Negeri 2 Wonosari",
