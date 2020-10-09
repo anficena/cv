@@ -1,10 +1,11 @@
+const basePath = "https://anficena.github.io/cv";
 // Item data each page
 const educations = [
     {
         name: "Universitas Negeri Yogyakarta",
         majors: "Pendidikan Teknik Informatika - S1",
         period: "2015 - 2019",
-        img: "/images/uny.jpg"
+        img: basePath+"/images/uny.jpg"
     },
     {
         name: "SMK Negeri 2 Wonosari",
