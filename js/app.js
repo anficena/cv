@@ -59,7 +59,7 @@ const certification = [
     {
         name: "Certificate Of Competence - Graphic Design",
         organization: "Badan Nasional Sertifikasi Profesi",
-        img: `${basePath}/images/bnsp.jpg`
+        img: `${basePath}/images/bnsp.jpg`,
         period: "",
         credential_id: "62090 3122 3 0007544 2017"
 
