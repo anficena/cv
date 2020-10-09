@@ -43,7 +43,7 @@ const certification = [
     {
         name: "Memulai Pemrograman Dengan Python",
         organization: "Dicoding Academy",
-        img: ``${basePath}/images/dicoding.jpg`,
+        img: `${basePath}/images/dicoding.jpg`,
         period: "Jun 2020 - Jun 2023",
         credential_id: "W07Z6145JPQR"
 
