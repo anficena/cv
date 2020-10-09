@@ -128,7 +128,7 @@ const portofolio = [
     {
         title: "SMART SCHOOL",
         description: "Sistem pengintegrasian aktivitas manajemen pembelajaran disekolah mulai dari perencanaan sampai dengan evaluasi.",
-        img: basePath + "/images/sschool.png"
+        img: [basePath + "/images/sschool.png"]
     },
 ]
 // End data
